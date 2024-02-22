@@ -10,6 +10,9 @@
 - Abinash Nanda
 - Rahul Mohapatra
 
+## About-Us
+We, the students of **CV Raman Global University, Bhubaneswar** have developed a sophisticated Dark Web Monitoring Tool for multifaceted purposes. With a commitment to innovation and excellence, our team endeavors to address cybersecurity challenges effectively, offering comprehensive solutions tailored to diverse needs.
+
 **Mission Statement: Unveiling the Dark Web**
 
 In our relentless pursuit of digital transparency and security, our mission is to illuminate the obscure corners of the Dark Web, unveiling its secrets and empowering individuals and organizations with actionable insights. Through innovative technologies and unwavering dedication, we strive to demystify the complexities of the Dark Web, enabling proactive measures against illicit activities and fostering a safer online environment for all.
