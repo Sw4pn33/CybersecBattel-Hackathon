@@ -1,6 +1,8 @@
 # CybersecBattel-Hackathon-IIIIT-BBSR
 
-Team Name **Decode Shark**
+## Team Name 
+
+**Decode Shark**
 
 ## Team Members
 
