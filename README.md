@@ -4,9 +4,9 @@ Team Name **Decode Shark**
 
 ## Team Members
 
-1.Swopna Sarit Barik
-2.Abinash Nanda
-3.Rahul Mohapatra
+- Swopna Sarit Barik
+- Abinash Nanda
+- Rahul Mohapatra
 
 **Mission Statement: Unveiling the Dark Web**
 
