@@ -1,4 +1,4 @@
-# CybersecBattel-Hackathon-IIIIT-BBSR
+# CybersecBattel-Hackathon-
 
 ## Team Name 
 
